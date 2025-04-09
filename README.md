@@ -42,7 +42,7 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 ---
 
 ## 💌 Contacts  
-📱 Telegram: [@menace_pdp](https://t.me/@menace_pdp)  
+📱 Telegram: [@Abboscoder1](https://t.me/@abboscoder1)  
 
 ---
 
