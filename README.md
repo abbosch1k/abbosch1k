@@ -47,3 +47,43 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 ---
 
 🎯 I am open to new collaborations and interesting projects! Feel free to contact me! 🚀
+####
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
+  <a href="https://jrohit.com.np/" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
+  </a>
+  
+ </p>
+ 
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{menacedjava}/count.svg" /></p> 
+</div>
