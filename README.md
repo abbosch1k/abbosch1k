@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Abbos
-[![GitHub followers](https://img.shields.io/github/followers/menacedjava?style=social)](https://github.com/menacedjava)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/davron-madumarov-999b90297/)
-<a href="https://user-badge.committers.top/uzbekistan/menacedjava">
+[![GitHub followers](https://img.shields.io/github/followers/TASHER?style=social)](https://github.com/TASHER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AbbosUbaydullaev/)
+<a href="https://user-badge.committers.top/uzbekistan/TASHER">
   <img src="https://user-badge.committers.top/uzbekistan/menacedjava.svg" alt="Committers Top" />
 </a>
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C908%20hrs%2055%20mins-blue)
