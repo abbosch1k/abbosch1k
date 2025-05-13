@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abbos
 [![GitHub followers](https://img.shields.io/github/followers/abbosch1k?style=social)](https://github.com/abbosch1k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AbbosUbaydullaev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abbosch1k/)
 <a href="https://user-badge.committers.top/uzbekistan/abbosch1k">
   <img src="https://user-badge.committers.top/uzbekistan/menacedjava.svg" alt="Committers Top" />
 </a>
@@ -61,7 +61,12 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 📱 Telegram: [@Abboscoder1](https://t.me/@abboscoder1)  
 
 ---
+### 🌟 **Thank You for Visiting!**
 
+Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
+<img src="https://github.com/user-attachments/assets/712b70cc-701c-44ce-9247-e2517e971d48"  style="width: 1000px; height: auto;"> 
+
+---
 🎯 I am open to new collaborations and interesting projects! Feel free to contact me! 🚀
 ####
 <br clear="both">
