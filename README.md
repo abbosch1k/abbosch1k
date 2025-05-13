@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abbos
 [![GitHub followers](https://img.shields.io/github/followers/abbosch1k?style=social)](https://github.com/abbosch1k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abbosch1k/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AbbosUbaydullaev/)
 <a href="https://user-badge.committers.top/uzbekistan/abbosch1k">
   <img src="https://user-badge.committers.top/uzbekistan/menacedjava.svg" alt="Committers Top" />
 </a>
