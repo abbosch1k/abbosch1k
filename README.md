@@ -16,6 +16,10 @@
 My core technologies include C++, Robochat Figma Draw.ios. I also work with JavaScript.
 
 ---
+<p align="center">
+  <img width="1000" src="workflows/snake.svg" alt="snake"/>
+</p>
+---
 
 ## 🧿 skill  
 ### Programming Languages:
