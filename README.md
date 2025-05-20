@@ -55,6 +55,10 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 
 ![abbosch1k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbosch1k&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbosch1k&layout=compact&theme=radical)
+### Badges
+
+
+<a href="http://www.github.com/suxrob14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suxrob14&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a
 
 ## 🏆 GitHub Trophy  
 ![trophy](https://github-profile-trophy.vercel.app/?username=abbosch1k&theme=dracula&margin-w=10&no-frame=true)
@@ -153,7 +157,4 @@ Feel free to star ⭐ my repositories, fork my projects, or drop me a message. L
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{menacedjava}/count.svg" /></p> 
 </div>
-### Badges
-
-
-<a href="http://www.github.com/suxrob14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suxrob14&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+>
