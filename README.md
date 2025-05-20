@@ -153,3 +153,10 @@ Feel free to star ⭐ my repositories, fork my projects, or drop me a message. L
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{menacedjava}/count.svg" /></p> 
 </div>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/suxrob14"><img src="https://github-readme-stats.vercel.app/api?username=suxrob14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="suxrob14's GitHub stats" /></a>
+
+<a href="http://www.github.com/suxrob14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suxrob14&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
