@@ -69,11 +69,11 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
     </td>
     <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
+    </td> <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
+   
 
 ### Socials
 
