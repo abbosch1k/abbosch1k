@@ -46,6 +46,34 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbosch1k&theme=github_dark&bg_color=000000&color=1E88E5&line=1E88E5&point=1E88E5&area=true" width="600" height="400" />
+🧿my favorite languages
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
 
 ### Socials
 
