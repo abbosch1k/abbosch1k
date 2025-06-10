@@ -46,7 +46,7 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abbosch1k&theme=github_dark&bg_color=000000&color=1E88E5&line=1E88E5&point=1E88E5&area=true" width="600" height="400" />
-🧿my favorite languages
+🧿my favorite languages and tools
 <table>
   <tr>
     <td align="center" width="96">
