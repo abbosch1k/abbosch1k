@@ -180,8 +180,13 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 
 <a href="http://www.github.com/abbosch1k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abbosch1k&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 
+###
+
 <!-- Contribuciones 3D GitHub -->
 [![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+###
+
 
 ## 🏆 GitHub Trophy  
 ![trophy](https://github-profile-trophy.vercel.app/?username=abbosch1k&theme=dracula&margin-w=10&no-frame=true)
