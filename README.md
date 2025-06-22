@@ -182,8 +182,7 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 
 ###
 
-<!-- Contribuciones 3D GitHub -->
-[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
 
 ###
 
