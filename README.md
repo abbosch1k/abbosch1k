@@ -192,9 +192,6 @@ My core technologies include C++, Robochat Figma Draw.ios. I also work with Java
 
 ---
 
-## 💌 Contacts  
-📱 Telegram: [@TA2H3R](https://t.me/@TA2H3R)  
-
 ---
 ### 🌟 **Thank You for Visiting!**
 
